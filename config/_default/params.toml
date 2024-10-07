@@ -1,5 +1,5 @@
 colorScheme = "noir"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
@@ -9,6 +9,7 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 defaultBackgroundImage = "Frederic_Edwin_Church,_The_Andes_of_Ecuador,_c._1855,_HAA.jpg"
+logo = "logo.png"
 
 [header]
 layout = "basic"
