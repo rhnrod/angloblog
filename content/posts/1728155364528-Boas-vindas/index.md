@@ -19,10 +19,11 @@ Quero apontar, obviamente, para a riqueza da tradição cristã e, em especial, 
 
 Isto resume o que pretendo realizar neste espaço. Como bom anglicano, imagino que a melhor forma de fechar esta breve apresetação seja orando, portanto, aqui fica minha oração, diante do Senhor, rogando a Ele que me sonde e que use deste meio para abençoar tantas vidas quanto possível.
 
-> **Coleta pela pureza**
+> **Coleta pela pureza**[^1]
 >
 > Onipotente Deus, que vês todos os corações, conheces todos os desejos, e para quem segredo algum está oculto; purifica os nossos corações e pensamentos com a inspiração do teu Santo Espírito, para que te amemos com perfeição, e dignamente engrandeçamos teu santo nome; por Jesus Cristo nosso Senhor. Amém.
 
 ---
 
 *Arte da Thumbnail: Anglican Church at Magnetawan (1933), A.J. Casson.* 
+[¹]: Livro de Oração Comum Brasileiro, Diocese de Recife, Igreja Anglicana no Brasil, 2008
