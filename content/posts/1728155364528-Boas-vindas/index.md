@@ -25,5 +25,6 @@ Isto resume o que pretendo realizar neste espaço. Como bom anglicano, imagino q
 
 ---
 
-*Arte da Thumbnail: Anglican Church at Magnetawan (1933), A.J. Casson.* 
-[¹]: Livro de Oração Comum Brasileiro, Diocese de Recife, Igreja Anglicana no Brasil, 2008
+*Arte da Thumbnail: Anglican Church at Magnetawan (1933), A.J. Casson.*
+
+[^1]: Livro de Oração Comum Brasileiro, Diocese de Recife, Igreja Anglicana no Brasil, 2008
