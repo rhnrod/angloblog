@@ -10,4 +10,4 @@ isoCode = "pt-br"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Esposo e pai. Leigo na Igreja Anglicana no Brasil."
-author = { name = "Rhuan Emanuel", image = "avatar.jpeg", headline = "Um blog comum sobre a tradição anglicana.", bio = "Esposo, Pai, Ministro Leigo.", links = [{ instagram = "https://instagram.com/rhnrod", twitter = "https://x.com/oieusouorhuan", threads = "https://www.threads.net/@rhnrod", mastodon = "https://mastodon.social/@rhnrod"}]}
+author = { name = "Rhuan Emanuel", image = "avatar.jpeg", headline = "Um blog comum sobre a tradição anglicana.", bio = "Esposo, Pai, Ministro Leigo.", links = [{ instagram = "https://instagram.com/rhnrod", x = "https://x.com/oieusouorhuan", threads = "https://www.threads.net/@rhnrod", mastodon = "https://mastodon.social/@rhnrod"}]}
