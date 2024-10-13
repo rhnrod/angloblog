@@ -2,10 +2,14 @@
 none = "none"
 
 [[main]]
-name = "Posts"
+name = "Blog"
+
+[[main]]
+name = "Artigos"
+parent = "Blog"
 pageRef = "posts"
 identifier = "kF76fahQaE"
-weight = 9999
+weight = 10
 
 [[footer]]
 none = "none"
