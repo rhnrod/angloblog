@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casa Comum</title>
-    <link>https://rhnrod.github.io/angloblog/</link>
+    <link>http://localhost:1313/angloblog/</link>
     <description>Recent content on Casa Comum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Rhuan Emanuel</copyright>
-    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rhnrod.github.io/angloblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/angloblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boas-vindas</title>
-      <link>https://rhnrod.github.io/angloblog/posts/1728155364528-boas-vindas/</link>
+      <link>http://localhost:1313/angloblog/posts/1728155364528-boas-vindas/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://rhnrod.github.io/angloblog/posts/1728155364528-boas-vindas/</guid>
+      <guid>http://localhost:1313/angloblog/posts/1728155364528-boas-vindas/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rhnrod.github.io/angloblog/posts/1728155364528-boas-vindas/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/angloblog/posts/1728155364528-boas-vindas/featured.jpg" />
     </item>
     
   </channel>
